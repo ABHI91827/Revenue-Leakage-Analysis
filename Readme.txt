@@ -101,6 +101,8 @@ This project demonstrates:
 * Ability to derive actionable insights from data
 
 ---
+## Dashboard Image
+![Dashboard](dashboard/dashboard.png)
 
 ## 📌 Conclusion
 
