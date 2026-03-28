@@ -61,6 +61,12 @@ A synthetic dataset was created to simulate real-world e-commerce behavior, incl
 * Revenue is heavily dependent on returning users
 
 ---
+## 💡 Key Insights
+
+- ~12% drop-off at checkout stage
+- 66% customers are repeat buyers
+- Repeat customers generate ~5x more revenue
+- Revenue heavily depends on customer retention
 
 ## 💡 Key Business Insights
 
@@ -103,6 +109,16 @@ This project demonstrates:
 ---
 ## Dashboard Image
 ![Dashboard](dashboard/dashboard.png)
+
+## 📁 Project Structure
+
+Revenue-Leakage-Analysis/
+│
+├── data/
+├── notebooks/
+├── sql/
+├── dashboard/
+├── README.md
 
 ## 📌 Conclusion
 
